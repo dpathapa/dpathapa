@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hello World 👋</h1>
+<h1 align="center">Howdy fellow coders!! 👋</h1>
 
 <p align="center">
   <img src = "./images/femalecodertocat.png" width = "300" height = "300">
